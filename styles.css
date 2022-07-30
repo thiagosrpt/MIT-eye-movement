@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #14495e;
+}
+
+.eyes {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  text-align: center;
+}
+.eye {
+  width: 240px;
+  height: 120px;
+  background: #fff;
+  display: inline-block;
+  margin: 40px;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+}
+.ball {
+  width: 80px;
+  height: 80px;
+  background: rgb(0, 140, 255);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+}
+
+.inner_ball {
+  width: 40px;
+  height: 40px;
+  background: rgb(0, 0, 0);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+}
+
+.light_ball {
+  width: 15px;
+  height: 15px;
+  background: rgba(255, 255, 255, 0.612);
+  position: absolute;
+  top: 35%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+}
