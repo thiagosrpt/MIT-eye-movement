@@ -2,7 +2,7 @@
 
 ### Title: Eye Movement Animation
 
-This MIT's assignment consists in using divis to draw eyes, the divs that similate the eye ires will follow the user's cursor while it's being moved through the screen.
+This MIT's assignment consists in using DIVs to simulate 2 eyes on an webpage, the eyes eyes follows the user's cursor while it's being moved through the screen.
 
 <img src="eye-movement-project-thumbnail.jpg">
 
