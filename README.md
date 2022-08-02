@@ -16,7 +16,7 @@ Download the zip folder with the source code file and open the index.html on the
 ## License information
 
 MIT License - Copyright (c) 2022 Thiago Petrimperni
-
+<a href="https://github.com/thiagosrpt/MIT-eye-movement/blob/0cf649ebec7468607f492243ae368b12f7b59d45/LICENCE">Lincense Link</a>
 
 ## Author
 
