@@ -6,11 +6,21 @@ This MIT's assignment consists in using DIVs to simulate 2 eyes on an webpage, t
 
 <img src="eye-movement-project-thumbnail.jpg">
 
-## Executing program
+## How to Run
 
-Download the zip folder with the source code file and open the index.html on the browser of your chouce.
+Download the zip folder with the source code file and open the index.html on the browser of your choice.
+
+## Roadmap of future improvements
+- Make eyes blink when cursor is too close.
+
+## License information
+
+MIT License - Copyright (c) 2022 Thiago Petrimperni
+
 
 ## Author
 
 Thiago Petrimperni
 Student at MIT - Full Stack Development with MERN
+
+
